@@ -1,5 +1,7 @@
 RENCANA KONTEN BUKU
 
 -Javascript
+  * syntax javascript yang baru
+  * framework javascript
 -PHP
 -Laravel
