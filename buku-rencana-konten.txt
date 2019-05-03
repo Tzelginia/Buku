@@ -4,4 +4,5 @@ RENCANA KONTEN BUKU
   * syntax javascript yang baru
   * framework javascript
 -PHP
+ *array
 -Laravel
