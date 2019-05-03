@@ -1,4 +1,3 @@
 Buku
 -konsisten untuk membuat konten 2 kali dalam seminggu
 -membuat form buku
--membuat form edit buku
